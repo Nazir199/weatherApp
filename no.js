@@ -1,1 +1,3 @@
-let name="nassu"
+
+var num =2
+
